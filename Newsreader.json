@@ -1,0 +1,19 @@
+{
+    "spec": 1,
+    "name": "Newsreader",
+    "previewText": "Almarai is a modern Arabic typeface family in 4 weights that's created by Boutros™ for optimal readability and suitability for both online and offline applications",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/theophilos829/fonts-discord/blob/ac5c1e96a787c769b289e71a08b471cc4c596316/DMSerifDisplay-Regular.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/theophilos829/fonts-discord/blob/ac5c1e96a787c769b289e71a08b471cc4c596316/DMSerifDisplay-Regular.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/theophilos829/fonts-discord/blob/main/DMSerifDisplay-Italic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/theophilos829/fonts-discord/blob/main/Newsreader_14pt-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/theophilos829/fonts-discord/blob/ac5c1e96a787c769b289e71a08b471cc4c596316/DMSerifDisplay-Regular.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/theophilos829/fonts-discord/blob/main/DMSerifDisplay-Italic.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1"
+    }
+}
